@@ -6,7 +6,7 @@ This OctoPrint plugin enables connection and communication between OctoPrint and
 
 On your OctoPrint server, manually install this plugin via the Plugin Manager using the following URL:
 
-`https://gitlab.com/mosaic-mfg/palette-2-plugin/-/archive/master/palette-2-plugin-master.zip`
+`https://github.com/cswendrowski/palette-2-plugin/archive/master.zip`
 
 ## Functionalities
 
